@@ -1,0 +1,7 @@
+pandas
+#toolkit for mysql
+pymysql # for work as adapter
+sqlalchemy create_engine
+
+#toolkit for postgres
+psycopg2
